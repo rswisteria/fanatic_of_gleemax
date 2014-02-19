@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fanatic_of_gleemax.iml" filepath="$PROJECT_DIR$/fanatic_of_gleemax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_your_some_erlang/learn_your_some_erlang.iml" filepath="$PROJECT_DIR$/learn_your_some_erlang/learn_your_some_erlang.iml" />
     </modules>
   </component>
 </project>
